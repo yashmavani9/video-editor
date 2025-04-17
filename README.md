@@ -43,14 +43,5 @@
 
 <h2>Try it live: https://veedclone-yash.vercel.app/</h2>
 
-<h2>About me</h2>
-<p>This project was developed as part of an assignment for VideoDubber.AI. To anyone from their team reviewing this repository, here's a quick intro about me:</p>
-<ul>
-  <li>I have crafted many websites, apps and iot solution and have <strong>great experience</strong> with building stuff</li>
-  <li>I have participated and won several <strong>hackathons</strong> and am able to work in <strong>heavyyy-workkk-loadsss</strong></li>
-  <li>I am working on 2 <strong>deep-learning researchs</strong> and one <strong>computer vision project</strong> which complements my knowledge in fields which can be uttmost helpful to the company</li>
-  <li>more about me - https://yashmavani.tech/</li>
-</ul>
-
 ![image](https://github.com/user-attachments/assets/5d00029d-7350-4c28-9e9b-67c2a2ae560a)
 
